@@ -6,4 +6,4 @@ The brief was supported by more details shared during the talk. If interested fe
 
 This was a personal exploratory evidence-based project, made for fun, not for academic research. A blog post may follow in the future.
 
-Installation notes are available here at [01_tpot](https://github.com/v4lerio/public-notes/blob/main/01%20tpot.md)
+Installation notes are available here at [01_tpot](https://github.com/v4lerio/public-notes/blob/main/01_tpot.md)
